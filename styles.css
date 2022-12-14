@@ -1,0 +1,98 @@
+h1 {
+    right: 200px;
+    margin-left: 95px;
+}
+
+h3 {
+    margin-left: 550px;
+    margin-top: -50px;
+}
+
+.p1 {
+    margin-left: 550px;
+    margin-top: -10px; 
+}
+
+img {
+    border-radius: 25px;
+    width: 200px;
+    margin-top: 90px;
+    margin-left: 20px;
+}
+
+.prod{
+    writing-mode: vertical-lr;
+    position: fixed;
+    left: 210px;
+    top: 210px;
+}
+
+.bill {
+    position: fixed;
+    top: 475px;
+    left: 35px;
+}
+
+.sara-i{
+    border-radius: 25px;
+    width: 200px;
+    position: fixed;
+    left: 505px;
+    top: 210px;
+}
+
+.sara-n {
+    top: 575px;
+    left: 530px;
+    border-left: 100px;
+    position: fixed;
+}  
+
+.art {
+    writing-mode: vertical-lr;
+    position: fixed;
+    left: 725px;
+    top: 310px;
+}
+
+.mac-i{
+    border-radius: 25px;
+    width: 200px;
+    position: fixed;
+    left: 1000px;
+    top: 110px;
+}
+
+.mac-n {
+    top: 470px;
+    left: 1030px;
+    border-left: 100px;
+    position: fixed;
+}  
+
+.tech {
+    writing-mode: vertical-lr;
+    position: fixed;
+    left: 1220px;
+    top: 210px;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) 
+{
+    .mac-1{
+        margin-top: 90px;
+        margin-left: 20px; 
+    }
+
+    h1{
+        right: 100px;
+        margin-left: 85px;
+    }
+
+    h3 {
+        margin-left: 50px;
+        margin-top: -40px;
+    }
+
+
+}
